@@ -15,7 +15,7 @@
       <p>I am a passionate web developer with experience in HTML, CSS, and JavaScript. I enjoy building responsive and user-friendly websites.</p>
     </section>
     
-    <section>
+  
       <h3>Experience</h3>
       <ul>
         <li>
@@ -36,9 +36,8 @@
           </ul>
         </li>
       </ul>
-    </section>
-    
-    <section>
+  
+   
       <h3>Education</h3>
       <ul>
         <li>
@@ -46,7 +45,7 @@
           <p>Bachelor of Science in Computer Science | 2012 - 2016</p>
         </li>
       </ul>
-    </section>
+  
   </main>
   
   <footer>
