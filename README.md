@@ -12,10 +12,7 @@
   <main>
     <section>
       <h3>About Me</h3>
-      <p>I am a passionate web developer with experience in HTML, CSS, and JavaScript. I enjoy building responsive and user-friendly websites.</p>
-  
-    
-  
+      <p>I am a passionate web developer with experience in HTML, CSS, and JavaScript. I enjoy building responsive and user-friendly websites </p>
       <h3>Experience</h3>
       <ul>
         <li>
